@@ -1,0 +1,24 @@
+{
+  "name": "castleonwarbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areebahmedkhan91/CastleOnWarBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areebahmedkhan91/CastleOnWarBackend/issues"
+  },
+  "homepage": "https://github.com/areebahmedkhan91/CastleOnWarBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "nodemon": "^2.0.6"
+  }
+}
